@@ -1,10 +1,7 @@
-
-  CNPM
-SE04-nhoms27.1
 Project: Giao Dịch Thực Tập Sinh
 1.0 Báo cáo
 - Thứ 3 và Thứ 7 hàng tuần sẽ báo cáo kết quả làm việc
- 1.1 Commit
+1.1 Commit
 -Comment format: 
                  Project: %s
                  Content:
@@ -25,7 +22,8 @@ Project: Giao Dịch Thực Tập Sinh
                                                                       - Nếu số lượng conflict nhiều và phức tạp thì xem log và gọi người đã sửa file này trước đó, cả 2 người cùng merge code. 
                                                                       - Merge xong code, commit lại các file vừa merge rồi  Pull về
                                                                       - Nếu hết conflict thì push code, nếu tiếp tục conflict thì thực hiện merge code như ở trên.
- 1.2 Issues
+                                                                      
+1.2 Issues
 - Nếu có vấn đề tạo isues rồi gắn cho Tạ Minh Thao để hỏi
  
 

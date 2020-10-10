@@ -1,0 +1,6 @@
+# load tu ben ngoai vao
+ReWriteEngine on
+ReWriteCond %{REQUEST_URL}  !^public 
+ReWriteRule ^backend(.*)$ backend/web/$1 [L,PT]
+ReWriteRule  ^frontend(.*)$ frontend/web/$1 [L,QSA]
+ReWriteRule  ^enterprise(.*)$ enterprise/web/$1 [L,QSA]

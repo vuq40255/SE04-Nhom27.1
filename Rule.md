@@ -1,7 +1,7 @@
-Project: Giao Dịch Thực Tập Sinh
-1.0 Báo cáo
+##### Project: Giao Dịch Thực Tập Sinh
+#### 1.0 Báo cáo
 - Thứ 3 và Thứ 7 hàng tuần sẽ báo cáo kết quả làm việc
-1.1 Commit
+####1.1 Commit
 -Comment format: 
                  Project: %s
                  Content:
@@ -23,11 +23,11 @@ Project: Giao Dịch Thực Tập Sinh
                                                                       - Merge xong code, commit lại các file vừa merge rồi  Pull về
                                                                       - Nếu hết conflict thì push code, nếu tiếp tục conflict thì thực hiện merge code như ở trên.
                                                                       
-1.2 Issues
+#### 1.2 Issues
 - Nếu có vấn đề tạo isues rồi gắn cho Tạ Minh Thao để hỏi
  
 
-1.3 Branch
+#### 1.3 Branch
 - Tạo branch
 - Code trên nhánh của mình, không đụng chạm tới các nhánh khác
 - Code xong thì tạo Pull Request  

@@ -10,9 +10,9 @@ SE04-nhoms27.1
 
 #### 1.3 Công nghệ và công cụ sử dụng:
 - Framework:Yii2
-- HTML5, CSS,Bootstrap4.
+- HTML5, CSS3,Bootstrap4.
 - Cơ sở dữ liệu : MySQL.
-- Công cụ sử dụng : Visual Studio code, SublimeText3,diagram.
+- Công cụ sử dụng : Visual Studio code, SublimeText3,Diagrams.
 #### 1.4 Thành Viên :
 - Tạ Minh Thao
 - Phạm Thanh Tùng

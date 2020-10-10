@@ -11,7 +11,7 @@ Project: Giao Dịch Thực Tập Sinh
               Content :
                     -Tạo chức năng đăng nhập
        
-- Quy trình commit
+- Quy tắc commit
                1.Cần sửa code: Pull code sau đó mới sửa code
                2.Cần commit code: 1.Chọn những file cần commit 
                                   2.Viết comment.

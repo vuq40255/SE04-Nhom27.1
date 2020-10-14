@@ -17,4 +17,4 @@ SE04-nhoms27.1
 - Tạ Minh Thao
 - Phạm Thanh Tùng
 - Nguyễn Đức Mạnh
-- Như Quỳnh
+- Vũ Thị Như Quỳnh

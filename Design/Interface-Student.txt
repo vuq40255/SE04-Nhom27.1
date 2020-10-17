@@ -1,0 +1,18 @@
+1. Giao diện trang chủ
+  - Hoàn thành khung trang chủ với các content: 
+     + Header bao gồm: Logo, nút Đăng nhập, Đăng ký
+     + Body bao gồm:
+      . Slogen
+      . Thanh tìm kiếm
+      . Danh sách các lĩnh vực trong ngành IT
+      . Nhà tuyển dụng : Ảnh đại diện, Tên công ty, Số lượng việc làm, Địa điểm
+      . Khung tin bài
+     + Footer bao gồm một số nội dung liên quan đến tìm việc làm
+ 2. Giao diện hiển thị công ty, doanh nghiệp
+  - Hoàn thành khung trang bìa của công ty bao gồm:
+    + Ảnh đại diện
+    + Tên công ty
+    + Địa điểm
+    + Số lượng nhân viên
+    + Nút đăng ký vào làm tại công ty.
+     
